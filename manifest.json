@@ -1,0 +1,13 @@
+{
+  "name": "Page QR",
+  "version": "0.1.0",
+  "manifest_version": 3,
+  "description": "A chromium extension to generate a QR code for the current page you are on",
+  "icons": {
+    "128": "icons/page-qr128.png"
+  },
+  "action": {
+    "default_popup": "popup/popup.html"
+  },
+  "permissions": ["scripting", "tabs"]
+}

@@ -18,7 +18,7 @@ Once it is installed you will see a QR code looking icon on your toolbar. Simply
 
 While I'm sure there are a bunch of ways to use it, here is the quick story of why it came to be.
 
-> I was scroll through LinkedIn and I came to a video of an excerpt of a Ted Talk by Reshma Saujani (TED2016ing) - the founder of Girls Who Code. I have 4 daughters and I found Reshma's talk empowering to hear. So I wanted my girls to hear it. BUT I was looking at this on my computer. Sure I could have shared it to them via email BUT THEY NEVER check their email. So then I would have to text them or Snapchat them to look at their email. It hit me if I could simply have a QR code on my desktop, I could open that same page on my phone and then just send them a text. Simple. So, I created this simple extension to do just that.
+> I was scrolling through LinkedIn and I came to a video of an excerpt of a Ted Talk by Reshma Saujani (TED2016) - the founder of Girls Who Code. I have 4 daughters and I found Reshma's talk empowering to hear. So I wanted my girls to hear it. BUT I was looking at this on my computer. Sure I could have shared it to them via email BUT THEY NEVER check their email. So then I would have to text them or Snapchat them to look at their email. It hit me if I could simply have a QR code on my desktop, I could open that same page on my phone and then just send them a text. Simple. So, I created this simple extension to do just that.
 
 ## Issues / Comments / Suggestions
 
